@@ -1,1 +1,1 @@
-# skola-project
+# MyOwn
